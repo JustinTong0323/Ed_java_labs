@@ -4,17 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99569444-c772-4b79-8424-f1066fa266c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorldTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multiplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiplierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PersonalGreeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PersonalGreetingTest.java" afterDir="false" />
+    <list default="true" id="99569444-c772-4b79-8424-f1066fa266c4" name="Changes" comment="finish week1 labs 16/1">
+      <change afterPath="$PROJECT_DIR$/src/BooleanExpr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BooleanExprTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Distance1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Distance1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FixedDivider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FixedDividerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImQuadraticSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImQuadraticSolverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestDoubleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LopsidedNumberTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LopsidedNumberTriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuadraticSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuadraticSolverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SaferDivider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SaferDividerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SaferQuadraticSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SaferQuadraticSolverTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf1b.iml" beforeDir="false" afterPath="$PROJECT_DIR$/inf1b.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +39,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4d7eb7e5-31c3-4d87-8728-8360979b7ec9" />
+        <option name="url" value="git@github.com:JustinTong0323/Ed_java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,7 +73,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/justintong/Desktop/inf1b/src"
+    "last_opened_file_path": "/Users/justintong/Desktop/inf1b/inf1b_labs/src"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -62,16 +84,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Hello txy" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="OOPExercises.PersonalGreeting" />
-      <module name="inf1b" />
-      <option name="PROGRAM_PARAMETERS" value="Xinyuan Tong" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -89,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673873603669</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finish week1 labs 16/1">
+      <created>1673877574100</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673877574100</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="finish week1 labs 16/1" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish week1 labs 16/1" />
   </component>
 </project>

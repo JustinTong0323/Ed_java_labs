@@ -4,25 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99569444-c772-4b79-8424-f1066fa266c4" name="Changes" comment="finish week1 labs 16/1">
-      <change afterPath="$PROJECT_DIR$/src/BooleanExpr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BooleanExprTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Distance1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Distance1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FixedDivider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FixedDividerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImQuadraticSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImQuadraticSolverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LargestDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LargestDoubleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LopsidedNumberTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LopsidedNumberTriangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuadraticSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuadraticSolverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SaferDivider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SaferDividerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SaferQuadraticSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SaferQuadraticSolverTest.java" afterDir="false" />
+    <list default="true" id="99569444-c772-4b79-8424-f1066fa266c4" name="Changes" comment="finish week2 individual labs 20/1">
+      <change afterPath="$PROJECT_DIR$/src/FacePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FacePrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gambler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GamblerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsWeekend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplesLoopRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplesLoopRangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolarCoordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolarCoordinatesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scrabble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquaresLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquaresLoopRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquaresLoopRangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquaresLoopTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,18 +60,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/justintong/Desktop/inf1b/inf1b_labs/src"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/justintong/Desktop/inf1b/inf1b_labs/src&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -108,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673877574100</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finish week2 individual labs 20/1">
+      <created>1674236118833</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674236118833</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +129,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
     <MESSAGE value="finish week1 labs 16/1" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish week1 labs 16/1" />
+    <MESSAGE value="finish week2 individual labs 20/1" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish week2 individual labs 20/1" />
   </component>
 </project>

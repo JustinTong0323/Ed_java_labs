@@ -4,22 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99569444-c772-4b79-8424-f1066fa266c4" name="Changes" comment="finish week2 individual labs 20/1">
-      <change afterPath="$PROJECT_DIR$/src/FacePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FacePrinterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gambler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GamblerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IsWeekend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiplesLoopRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiplesLoopRangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PolarCoordinates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PolarCoordinatesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scrabble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SquaresLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SquaresLoopRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SquaresLoopRangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SquaresLoopTest.java" afterDir="false" />
+    <list default="true" id="99569444-c772-4b79-8424-f1066fa266c4" name="Changes" comment="finish week2 tutorial and labs 24/1">
+      <change afterPath="$PROJECT_DIR$/src/ArithmeticSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArithmeticSeriesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayRotateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FloatDiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FloatDivTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MeanVariance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MeanVarianceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sieve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SieveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TempMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TempMedianTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf1b.iml" beforeDir="false" afterPath="$PROJECT_DIR$/inf1b.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674236118833</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finish week2 tutorial and labs 24/1">
+      <created>1674578911066</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674578911066</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +138,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="finish week1 labs 16/1" />
     <MESSAGE value="finish week2 individual labs 20/1" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish week2 individual labs 20/1" />
+    <MESSAGE value="finish week2 tutorial and labs 24/1" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish week2 tutorial and labs 24/1" />
   </component>
 </project>

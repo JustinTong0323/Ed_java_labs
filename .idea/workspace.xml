@@ -4,23 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99569444-c772-4b79-8424-f1066fa266c4" name="Changes" comment="finish week2 tutorial and labs 24/1">
-      <change afterPath="$PROJECT_DIR$/src/ArithmeticSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArithmeticSeriesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayRotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayRotateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FloatDiv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FloatDivTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeanVariance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeanVarianceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sieve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SieveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TempMedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TempMedianTest.java" afterDir="false" />
+    <list default="true" id="99569444-c772-4b79-8424-f1066fa266c4" name="Changes" comment="finish week3 labs 28/1">
+      <change afterPath="$PROJECT_DIR$/src/ArrayFront9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayFront9Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayOpsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoordinateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoordinateConverterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DateFashion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DateFashionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ErrorHandlingReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ErrorHandlingReturnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsTriangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsTriangularTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NMaxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneTimePadDecipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneTimePadEncipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneTimePadEncipherTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf1b.iml" beforeDir="false" afterPath="$PROJECT_DIR$/inf1b.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,18 +63,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/justintong/Desktop/inf1b/inf1b_labs/src&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/justintong/Desktop/inf1b/inf1b_labs/src",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -119,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674578911066</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="finish week3 labs 28/1">
+      <created>1674933838636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674933838636</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +152,7 @@
     <MESSAGE value="finish week1 labs 16/1" />
     <MESSAGE value="finish week2 individual labs 20/1" />
     <MESSAGE value="finish week2 tutorial and labs 24/1" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish week2 tutorial and labs 24/1" />
+    <MESSAGE value="finish week3 labs 28/1" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish week3 labs 28/1" />
   </component>
 </project>

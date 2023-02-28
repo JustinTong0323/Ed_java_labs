@@ -4,22 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99569444-c772-4b79-8424-f1066fa266c4" name="Changes" comment="finish week4 labs 1/2">
-      <change afterPath="$PROJECT_DIR$/src/AbsolutePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbsolutePathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Has271.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Has271Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NbyN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NbyNTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NoTriples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NoTriplesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SplitPathName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SplitPathNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StdDraw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Voronoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VoronoiTest.java" afterDir="false" />
+    <list default="true" id="99569444-c772-4b79-8424-f1066fa266c4" name="Changes" comment="finish week5 labs 11/2">
+      <change afterPath="$PROJECT_DIR$/src/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreditCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DNAStrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DNAStrandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DNAStrandTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dalek1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dalek1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dalek2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dalek2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Favourites.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FavouritesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageEditor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageEditor1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageEditor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicTrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicTrackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vector3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vector3DTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lion1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stdlib.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inf1b.iml" beforeDir="false" afterPath="$PROJECT_DIR$/inf1b.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,25 +67,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/justintong/Desktop/inf1b/inf1b_labs/src&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/justintong/Desktop/inf1b/inf1b_labs/src",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$MAVEN_REPOSITORY$/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar" />
       <recent name="$PROJECT_DIR$/src/OOPExercises" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -86,50 +94,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="AbsolutePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbsolutePath" />
+    <configuration name="DNAStrand" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DNAStrand" />
       <module name="inf1b" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NbyN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NbyN" />
-      <module name="inf1b" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NoTriples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NoTriples" />
-      <module name="inf1b" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SplitPathName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SplitPathName" />
-      <module name="inf1b" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Voronoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Voronoi" />
-      <module name="inf1b" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Voronoi" />
-        <item itemvalue="Application.AbsolutePath" />
-        <item itemvalue="Application.SplitPathName" />
-        <item itemvalue="Application.NbyN" />
-        <item itemvalue="Application.NoTriples" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -182,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675253333108</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="finish week5 labs 11/2">
+      <created>1676135926451</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676135926451</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +182,7 @@
     <MESSAGE value="finish week2 tutorial and labs 24/1" />
     <MESSAGE value="finish week3 labs 28/1" />
     <MESSAGE value="finish week4 labs 1/2" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish week4 labs 1/2" />
+    <MESSAGE value="finish week5 labs 11/2" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish week5 labs 11/2" />
   </component>
 </project>

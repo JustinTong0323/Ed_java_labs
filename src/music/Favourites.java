@@ -1,3 +1,5 @@
+package music;
+
 public class Favourites {
     private static final int MAX = 5;
     private int counter = 0;
@@ -13,10 +15,10 @@ public class Favourites {
     }
     public void showFavourites() {
         for (MusicTrack mt: favouriteMusicTracks) {
-            if (mt == null) {
-                break;
-            } else {
+            if (mt != null) {
                 System.out.println(mt);
+            } else {
+                break;
             }
         }
     }

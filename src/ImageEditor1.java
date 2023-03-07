@@ -24,8 +24,7 @@ public class ImageEditor1 {
     }
 
     public static void main(String[] args) {
-        Picture picture = new Picture("lion1.jpg");
-        makeGreyscale(picture).show();
+
     }
 
 }

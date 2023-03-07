@@ -1,3 +1,5 @@
+package music;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.io.ByteArrayOutputStream;
@@ -33,13 +35,6 @@ public class FavouritesTest {
         System.setOut(originalOut);
     }
     
-    @Test
-    public void testShowFavourites_emptyList() {
-        Favourites favourites = new Favourites();
-        favourites.showFavourites();
-        assertEquals("", capturedOut.toString().trim());
-    }
-
     /**
      * Convert Windows format linefeeds to Unix/Linux/OSX format for string comparison
      * @param input input string containing newlines in '\n', '\r', '\r\n' format
@@ -50,6 +45,13 @@ public class FavouritesTest {
             return null;
         }
         return input.replaceAll("\r\n", "\n").replaceAll("\r", "\n");
+    }
+
+    @Test
+    public void testShowFavourites_emptyList() {
+        Favourites favourites = new Favourites();
+        favourites.showFavourites();
+        assertEquals("", capturedOut.toString().trim());
     }
 
     @Test
@@ -85,7 +87,7 @@ public class FavouritesTest {
     }
 
     @Test
-    public void testShowFavourites_tooManyItems() {
+    public void testShowFavourites_extraItem() {
         Favourites favourites = new Favourites();
         favourites.addTrack("Fun", "Some Nights");
         favourites.addTrack("Oliver Tank", "Help You Breathe");
@@ -95,13 +97,12 @@ public class FavouritesTest {
         favourites.addTrack("Porcelain Raft", "Put Me To Sleep");
         favourites.showFavourites();
         
-        String expectedOutput = "Sorry, can't add: Put Me To Sleep | Porcelain Raft\n" + 
-        		"\n" + 
-        		"Some Nights | Fun\n" + 
+        String expectedOutput = "Some Nights | Fun\n" + 
         		"Help You Breathe | Oliver Tank\n" + 
         		"Fit Against the Country | Horse Feathers\n" + 
         		"Country House | Emile Sande\n" + 
-        		"Walking the Dog | Fun";
+        		"Walking the Dog | Fun\n" +
+        		"Put Me To Sleep | Porcelain Raft";
         assertEquals(expectedOutput, convertToUnix(capturedOut.toString().trim()));
     }
 

@@ -4,29 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99569444-c772-4b79-8424-f1066fa266c4" name="Changes" comment="finish week5 labs 11/2">
-      <change afterPath="$PROJECT_DIR$/src/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreditCardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DNAStrand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DNAStrandTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DNAStrandTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dalek1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dalek1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dalek2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dalek2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Favourites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FavouritesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageEditor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageEditor1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageEditor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicTrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicTrackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vector3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vector3DTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lion1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stdlib.jar" afterDir="false" />
+    <list default="true" id="99569444-c772-4b79-8424-f1066fa266c4" name="Changes" comment="finish week6 labs 28/2">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dalek3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dalek3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntervalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoughtsAndCrosses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoughtsAndCrossesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point2DDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokenizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TokenizerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordCounterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inf1b.iml" beforeDir="false" afterPath="$PROJECT_DIR$/inf1b.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Favourites.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/Favourites.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FavouritesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/FavouritesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImageEditor1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImageEditor1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MusicTrack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/MusicTrack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MusicTrackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/MusicTrackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lion1.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,40 +68,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/justintong/Desktop/inf1b/inf1b_labs/src",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/justintong/Desktop/inf1b/inf1b_labs/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/music" />
       <recent name="$MAVEN_REPOSITORY$/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar" />
       <recent name="$PROJECT_DIR$/src/OOPExercises" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="music" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="DNAStrand" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DNAStrand" />
+    <configuration name="WordCounterTest.testMap2Array" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="inf1b" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordCounterTest" />
+      <option name="METHOD_NAME" value="testMap2Array" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WordCounterTest.testMap2Array" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -160,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676135926451</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="finish week6 labs 28/2">
+      <created>1677602029573</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677602029573</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +208,22 @@
     <MESSAGE value="finish week3 labs 28/1" />
     <MESSAGE value="finish week4 labs 1/2" />
     <MESSAGE value="finish week5 labs 11/2" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish week5 labs 11/2" />
+    <MESSAGE value="finish week6 labs 28/2" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish week6 labs 28/2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="freq.get(key)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

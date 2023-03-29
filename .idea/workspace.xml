@@ -4,23 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99569444-c772-4b79-8424-f1066fa266c4" name="Changes" comment="finish week7 labs 7/3">
-      <change afterPath="$PROJECT_DIR$/src/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VideoStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VideoStoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VideoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/AndWff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/AndWffTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/BinaryWff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/IfWff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/NotWff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/OrWff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/PropLogicLauncher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/PropLogicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/PropVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/Valuation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/Wff.java" afterDir="false" />
+    <list default="true" id="99569444-c772-4b79-8424-f1066fa266c4" name="Changes" comment="finish week9 labs 19/3">
+      <change afterPath="$PROJECT_DIR$/src/Asteroid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AsteroidEqualsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AsteroidHashTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AsteroidScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CartComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CartComparatorName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CartComparatorNameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CartComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SizeCategory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +69,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TODO_SCOPE": "All Places",
-    "last_opened_file_path": "/Users/justintong/Desktop/inf1b/inf1b_labs/src/logic",
+    "last_opened_file_path": "/Users/justintong/Desktop/inf1b/inf1b_labs/src",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -82,8 +78,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/logic" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/logic" />
       <recent name="$PROJECT_DIR$/src/music" />
       <recent name="$MAVEN_REPOSITORY$/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar" />
       <recent name="$PROJECT_DIR$/src/OOPExercises" />
@@ -213,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678221925357</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="finish week9 labs 19/3">
+      <created>1679255246809</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679255246809</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,7 +242,8 @@
     <MESSAGE value="finish week6 labs 28/2" />
     <MESSAGE value="finish week7 labs 28/2" />
     <MESSAGE value="finish week7 labs 7/3" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish week7 labs 7/3" />
+    <MESSAGE value="finish week9 labs 19/3" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish week9 labs 19/3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
